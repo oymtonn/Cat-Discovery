@@ -41,7 +41,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='cat-showcase.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='cat-showcase (2).gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Note: The gif resets halfway for some reason, keep watching to see the full gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with IMGUR
