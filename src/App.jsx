@@ -47,6 +47,10 @@ function App() {
     }
   }
 
+  const handleUnban = (attribute) => {
+    setBanList(banList.filter(item => item !== attribute));
+  };
+
   return (
     <div>
         <h1 className="title">Discover Cats</h1>
@@ -64,7 +68,7 @@ function App() {
             />
         )}
 
-        <BanList banList={banList} />
+    <BanList banList={banList} onUnbanClick={handleUnban} />
 
     </div>
     
